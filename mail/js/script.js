@@ -7,7 +7,7 @@ let flag = false
 
 for (let i=0; i < mails.length; i++){
 //console.log(mails[i])
-if( mails[i] === user){
+if( mails[i].toLowerCase === user.toLowerCase){
     flag = true
 }
 }
