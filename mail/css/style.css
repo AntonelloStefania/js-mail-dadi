@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container-mail{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(181, 137, 223, 0.616);
+}
+
+.content{
+    background-color: rgba(164, 85, 238, 0.76);
+    border: 1px solid purple;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow:  20px 20px 50px 10px pink inset;;
+}
